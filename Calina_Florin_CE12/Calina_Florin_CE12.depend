@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528231515 source:c:\users\lenovo\desktop\contest\becheru\calina_florin_ce12\main.c
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<time.h>
+	"FirstSolution.h"
+
+1528229582 c:\users\lenovo\desktop\contest\becheru\calina_florin_ce12\firstsolution.h
+
